@@ -7,7 +7,7 @@ body {
 }
 header {
   background: black;
-  background-image: url('gym1.jpg');
+  background-image: url(gym1.jpg);
   background-size: 100%;
   background-position: center;
   height: 400px;
